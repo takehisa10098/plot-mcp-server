@@ -1,0 +1,18 @@
+{
+    "system": "あなたは小説執筆のサポートAIです。",
+    "user": {
+      "goal": "和風ファンタジーの短編小説を書きたい",
+      "constraints": ["文字数は3000字以内", "テーマは『喪失と再生』"]
+    },
+    "steps": [
+      { "name": "キャラクター作成", "status": "done" },
+      { "name": "プロット生成", "status": "in_progress" }
+    ],
+    "resources": {
+      "characters": [
+        { "name": "アカネ", "role": "主人公", "trait": "寡黙で芯が強い" }
+      ],
+      "world": "戦国時代風の異世界。陰陽術が存在する。"
+    }
+  }
+  
