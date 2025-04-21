@@ -1,0 +1,26 @@
+{
+  "name": "plot-mcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "openai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takehisa10098/plot-mcp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takehisa10098/plot-mcp-server/issues"
+  },
+  "homepage": "https://github.com/takehisa10098/plot-mcp-server#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^4.95.1"
+  }
+}
